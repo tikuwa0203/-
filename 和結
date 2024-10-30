@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>輪結 わゆう - つながりの教え</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header, footer {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #333;
+        }
+        nav a {
+            color: white;
+            padding: 1em;
+            text-decoration: none;
+        }
+        nav a:hover {
+            background-color: #575757;
+        }
+        main {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        h2 {
+            color: #4CAF50;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>輪結 わゆう - つながりの教え</h1>
+    <p>人と人とのつながりを大切にし、自由な信仰を育みましょう</p>
+</header>
+
+<nav>
+    <a href="#about">教の紹介</a>
+    <a href="#beliefs">教義</a>
+    <a href="#events">イベント情報</a>
+    <a href="#contact">お問い合わせ</a>
+</nav>
+
+<main>
+    <section id="about">
+        <h2>教の紹介</h2>
+        <p>輪結 わゆうは、人々が互いに支え合い、独立した存在として成長できることを目指す新しい教えです。私たちの教えは、つながり、自由な信仰、心の成長を重視しています。</p>
+    </section>
+
+    <section id="beliefs">
+        <h2>教義</h2>
+        <ul>
+            <li><strong>つながりの重要性:</strong> 人と人との関係を育み、共に成長することが大切です。</li>
+            <li><strong>自由な信仰:</strong> 信じることは個々の選択です。自由に心を開き、自分のペースで学びましょう。</li>
+            <li><strong>心の成長:</strong> 教徒同士が互いに学び合い、理解を深めることで、心を成長させていきます。</li>
+        </ul>
+    </section>
+
+    <section id="events">
+        <h2>イベント情報</h2>
+        <p>現在、以下のイベントを予定しています：</p>
+        <ul>
+            <li>日付: 2024年XX月XX日</li>
+            <li>時間: 13:00 - 15:00</li>
+            <li>場所: 公民館（例）</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>お問い合わせ</h2>
+        <p>ご質問やご相談は以下のメールアドレスまでご連絡ください: <a href="mailto:contact@example.com">contact@example.com</a></p>
+    </section>
+</main>
+
+<footer>
+    <p>© 2024 輪結 わゆう. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
